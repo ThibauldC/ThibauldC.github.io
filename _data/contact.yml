@@ -2,9 +2,11 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/ThibauldC"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "x.com/ThibauldC"
 
 - type: email
   icon: "fas fa-envelope"
